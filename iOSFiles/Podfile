@@ -1,0 +1,10 @@
+platform :ios, '10.0'
+
+target 'PlantBit' do
+  use_frameworks!
+pod 'CocoaMQTT'
+pod 'Firebase/Core'
+pod 'Firebase/Storage'
+pod 'Firebase/Database'
+pod 'FirebaseFirestore', :git => 'https://github.com/firebase/firebase-ios-sdk.git', :branch => 'master'
+end

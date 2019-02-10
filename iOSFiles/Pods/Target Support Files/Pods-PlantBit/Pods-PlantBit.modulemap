@@ -1,0 +1,6 @@
+framework module Pods_PlantBit {
+  umbrella header "Pods-PlantBit-umbrella.h"
+
+  export *
+  module * { export * }
+}

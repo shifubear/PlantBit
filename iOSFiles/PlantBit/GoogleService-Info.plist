@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>549108724553-c4j4v0mjlpet4n6f3phf8a1ufla4k6eq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.549108724553-c4j4v0mjlpet4n6f3phf8a1ufla4k6eq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJXh11EEZOG5Yh9_zGmcn5xTbDFB7uFc8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>549108724553</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shifubear.PlantBit</string>
+	<key>PROJECT_ID</key>
+	<string>plantbit-3d62f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plantbit-3d62f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:549108724553:ios:ff026f72c1d4222e</string>
+	<key>DATABASE_URL</key>
+	<string>https://plantbit-3d62f.firebaseio.com</string>
+</dict>
+</plist>
